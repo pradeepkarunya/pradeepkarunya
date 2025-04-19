@@ -3,21 +3,6 @@
 <h1 align="center">Hi 👋, I'm Pradeep Kumar</h1>
 <h3 align="center">🏆 Senior React.js Developer | Delivery Project Lead @ Mphasis</h3>
 
----
-
-🔭 **Current Focus:**
-- 📊 Excel Add-in for enterprise reporting (Office.js, Redux)
-- 🛍️ Personal eCommerce Platform – *Kumarans Corner* (Vite, React, Tailwind)
-- 🧑‍🏫 Corporate React Training Portal (hooks, architecture, hands-on labs)
-- 📘 Writing a book: *Personal Finance for Indian Working Class*
-
-🌱 **Learning & Exploring:**
-- ☁️ Cloud-native Full Stack with Node.js + MongoDB + Azure
-- 🏗️ Micro-Frontend architecture & Module Federation
-- 📈 Scaling UI performance and bundle optimization
-
----
-
 ## 💼 Professional Summary
 
 - 🧑‍💻 11+ years of experience in **Frontend Development** with Full Stack exposure  
